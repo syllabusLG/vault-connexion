@@ -1,0 +1,9 @@
+server:
+  port: 8282
+spring:
+  application:
+    name: vault-connexion
+  cloud:
+    vault:
+      uri: http://localhost:8200
+      token: s.6YbLczRzSnAcNyGmmQeuPqBD
